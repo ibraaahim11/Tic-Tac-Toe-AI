@@ -2,8 +2,6 @@
 
 An implementation of an unbeatable Tic-Tac-Toe AI using the **Minimax algorithm**. The AI explores all possible future game states and always chooses the move that maximizes its chances of winning while minimizing the opponent's.
 
-This project was completed as part of **CS50's Introduction to Artificial Intelligence with Python**.
-
 ## Features
 
 - Optimal Tic-Tac-Toe gameplay using Minimax
