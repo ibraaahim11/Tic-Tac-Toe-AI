@@ -7,7 +7,7 @@ An implementation of an unbeatable Tic-Tac-Toe AI using the **Minimax algorithm*
 - Optimal Tic-Tac-Toe gameplay using Minimax
 - Never loses against an optimal opponent
 - Complete game logic implementation
-- Graphical interface provided by the CS50 distribution code (Pygame)
+- Graphical interface 
 
 ## Concepts Covered
 
@@ -22,7 +22,7 @@ An implementation of an unbeatable Tic-Tac-Toe AI using the **Minimax algorithm*
 ## Files
 
 - `tictactoe.py` — Game logic and Minimax implementation
-- `runner.py` — Pygame graphical interface (provided by CS50)
+- `runner.py` — Pygame graphical interface
 - `requirements.txt` — Project dependencies
 
 ## Installation
